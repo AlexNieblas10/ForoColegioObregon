@@ -38,6 +38,7 @@ ul{
 
 .articulo{
     display: flex;
+    color: #2F1C6A;
 }
 
 .articulo p {
