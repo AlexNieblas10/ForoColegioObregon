@@ -40,7 +40,7 @@ ul{
 
 .articulo{
     display: flex;
-    color: #2F1C6A;
+    color: #17202A;
 }
 
 .articulo p {
@@ -69,6 +69,12 @@ ul{
 }
 .articulos img{
     width: 60%;
+}
+.articulos h4{
+    font-size: 20px;
+}
+.articulos h3{
+    font-size: 30px;
 }
 
 .fin{
