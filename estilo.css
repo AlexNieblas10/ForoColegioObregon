@@ -30,6 +30,7 @@ nav{
 .nav_li a{
     color:#4e42d4;
     text-decoration:none;
+    margin-left: 10px;
 }
 .nav_li i{
     text-align: right;
