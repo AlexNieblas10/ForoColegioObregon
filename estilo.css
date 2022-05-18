@@ -7,13 +7,14 @@ body{
     min-height:100vh;
     display: flex;
     flex-direction: column;
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(84,84,198,1) 100%);
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgb(111, 121, 230) 100%);
     
 }
 nav{
     position: fixed;
     width: 100%;
-    background-color:#f7f9fb;
+    background-color:white;
    
 }
 .nav_ul{
@@ -42,7 +43,7 @@ nav{
     
     padding:1.5rem;
     text-align:center;
-    background-color: #f7f9fb;
+    background-color: transparent;
     color:#4e42d4;
     
 }
@@ -89,13 +90,13 @@ article a:hover{
 .contenedor-footer{
     margin-top:auto;
     display: grid;
-    background-color:#f7f9fb;
+    background-color:transparent;
 }
 
 .texto-final{
     padding:2rem;
     text-align:center;
-    color: #4e42d4
+    color: black;
 }
 
 .pagina-siguiente{
