@@ -2,6 +2,9 @@
     font-family: "Montserrat";
     font-size:25px;
 }
+body{
+    background-color: rgba(116, 183, 250, 0.77);
+}
 
 .header{
     display: flex;
@@ -66,6 +69,7 @@ ul{
     text-align: center;
     padding: 15px;
     margin: 20px 0;
+    z-index: 20;
 }
 .articulos img{
     width: 60%;
